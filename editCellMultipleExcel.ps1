@@ -13,8 +13,7 @@ function EditCellByFile([string]$filename, [string]$sheet, [int]$rowId, [string]
 }
 
 ##### script-edit-cell-multiple-excelfiles. ###########
-#   Example edit the Cell F21, value TEST
-# 	parameters:
+#parameters:
 #   colId: string
 #   rowId: integer
 #   sheet: string
